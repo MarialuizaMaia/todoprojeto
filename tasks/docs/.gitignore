@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+
+# Arquivos compilados do Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Migrations antigas (exceto _init_.py)
+/migrations/.py
+!*/migrations/_init_.py
+
+# Banco de dados SQLite
+*.sqlite3
+
+# Arquivos de configuração locais
+.env
+
+# Cache do VSCode / PyCharm
+.vscode/
+.idea/
