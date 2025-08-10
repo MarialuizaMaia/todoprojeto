@@ -15,7 +15,7 @@ _pycache_/
 *.sqlite3
 
 # Arquivos de configuração locais
-.env
+.venv
 
 # Cache do VSCode / PyCharm
 .vscode/
